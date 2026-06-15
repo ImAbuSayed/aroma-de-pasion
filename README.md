@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aroma-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Aroma de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-pasion/) |
+| **Get License** | [Official Music Licensing for Aroma de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento tu aroma flotando en la habitación
+> Tus ojos me llaman buscando una conexión
+> Un poco de peligro y mucha provocación
+> Esta noche tú y yo perdemos la razón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 15, 2026 |
+| **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aroma-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Aroma de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-pasion/) |
+| **Get License** | [Music Rights & Licensing for Aroma de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f3ff22fb3df7142373347b257855e129e2396ba77361abe9205a78f14668d9dd` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

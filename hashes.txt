@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aroma de pasión
+
+This log tracks the cryptographic history and versioning for the song **Aroma de pasión** (aroma-de-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T00:09:27.097391 | `v1` | `f3ff22fb3df7142373347b257855e129e2396ba77361abe9205a78f14668d9dd` | `be998492552c2d54524187ff0b054326eb85bcb43185fd4b04bcde707b410fb0` | `2026-06-16_aroma-de-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
